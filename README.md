@@ -24,6 +24,7 @@
 <br />
 <br />
 
+[website]: https://digital.tatarstan.ru/
 [instagram]: https://instagram.com/ketovx
 [telegram]: https://t.me/ketovx
 [vkontakte]: https://vk.com/ketovx
