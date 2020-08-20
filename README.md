@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hello, I am Niel - Web Developer from Russia
 
-<!--
-**PaperDevil/PaperDevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Husband, Father, Developer, and Teacher!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a [Didgital Transformation Center][website]!
+- 🌱 I’m currently learning Python, Golang and JS
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Found a new job, started teaching
+- ⚡ Fun fact: I really like watching movies and listening to music
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/vk.svg" />][vkontakte]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />][telegram]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/vk.svg" />][python]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][golang]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />][javascript]
+
+<br />
+<br />
+
+[instagram]: https://instagram.com/ketovx
+[telegram]: https://t.me/ketovx
+[vkontakte]: https://vk.com/ketovx
+[python]: https://python.org
+[golang]: https://golang.org/
+[javascript]: https://nodejs.org
