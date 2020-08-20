@@ -1,7 +1,5 @@
 ### Hello, I am Niel - Web Developer from Russia
 
-## I'm a Husband, Father, Developer, and Teacher!
-
 - 🔭 I’m currently working on a [Didgital Transformation Center][website]!
 - 🌱 I’m currently learning Python, Golang and JS
 - 👯 I’m looking to collaborate with other content creators
@@ -19,9 +17,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/vk.svg" />][python]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][golang]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />][javascript]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/python.svg" />][python]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/go.svg" />][golang]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/javascript.svg" />][javascript]
 
 <br />
 <br />
