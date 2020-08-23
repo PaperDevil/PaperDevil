@@ -1,3 +1,5 @@
+The most significant event for me is the success of my project. The next most important event is its failure.
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/vk.svg" />][vkontakte]
